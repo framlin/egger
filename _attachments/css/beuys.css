@@ -1,0 +1,95 @@
+table.std {background-color:#ffcc99;border-spacing: 0px; border-width:0px; padding:0px; border:0px;}
+table.hi1 {background-color:#ccffcc;border-spacing:0px; border-width:0px; padding:0px; border:0px;}
+table.hi2 {background-color:#ffffcc;border-spacing:0px; border-width:0px; padding:0px; border:0px;}
+table.ll_submenu {background-color:#ffffcc;border-spacing:0px; border-width:0px; padding:0px; border:0px;}
+table.announce {background-color:#ffffcc;border-spacing:0px; border-width:0px; padding:0px; border:0px;
+		font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11;}
+table.teaser {background-color:#eeeeee;border-spacing:0px; border-width:0px; padding:0px; border:0px;
+	      font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11;
+	      width: 160px; height: 100%;vertical-align:top;}
+table.ll_job {background-color:#ffffcc; border-width: 0px; border:0px;
+	      font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11;}
+table.ll_jobentry {background-color:#ffffcc; border-width: 0px; border:0px;
+		   font-family: Verdana, Arial, Helvetica, sans-serif;
+		   font-size: 11;}
+table.ann_list {background-color:#ffff11;border-spacing:0px; border-width:0px; padding:0px; border:0px;
+	      font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11;
+	      height: 100%;vertical-align:top;}
+
+td.hi1 {background-color:#ffffff;}
+td.hi2 {background-color:#ffffcc;}
+td.hsep {background-color:#ffcc99; height: 3px;}
+td.bighsep {background-color:#ffcc99; height: 30px;}
+td.jobhsep {background-color:#ccccff; height: 4px;}
+td.pd_hsep {background-color:#ccffcc; height: 4px;}
+td.ll_hsep {background-color:#ccffcc; height: 2px;}
+td.ll_vsep {background-color:#ccffcc; width: 4px;}
+td.ll_vspace {background-color:#ffcc99; width: 50px;}
+td.ll_leftspace {background-color:#ffcc99; width: 50px;}
+td.ll_skill {background-color:#ffcc00; width: 200px;font-weight:bold;}
+td.ll_noskill {background-color:#ffcc99; width: 200px;font-weight:bold;}
+td.ll_task {background-color:#ffcc99; width: 330px;}
+td.ll_firma {font-family: Verdana, Arial, Helvetica, sans-serif;  font-size:11; background-color:#ffffcc; font-weight:bold;padding: 2px;}
+td.ll_firmadescr {font-family: Verdana, Arial, Helvetica, sans-serif; font-size:10;background-color:#ffcc99;padding: 3px;}
+td.ll_submenuspace {background-color:#ffcc99; width: 70px;}
+td.ll_submenu {background-color:#ffcc99; width: 222px; padding: 2px;}
+td.ll_deselected {background-color:#eeeeee; font-size: 12; padding: 2px; width: 130px; text-align:center;}
+td.std {background-color:#ffcc99;padding: 0pt;}
+td.timebar_until {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10; background-color:#ccccff;padding: 0pt; width: 70px;vertical-align:top;font-weight:bold;}
+td.timebar_while {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10; background-color:#ccccff;padding: 0pt; width: 70px;vertical-align:middle;font-weight:bold;}
+td.timebar_from {font-family: Verdana, Arial, Helvetica, sans-serif; 
+		 font-size: 10; 
+		 background-color:#ccccff;
+		 padding: 0pt; width: 70px;
+		 vertical-align:bottom;
+		 font-weight:bold;
+		}
+td.announce {font-family: Verdana, Arial, Helvetica, sans-serif; 
+	     font-size:12;
+	     background-color:#ffffcc;
+	     width:430px;
+	     padding:5px;
+	     padding-right:15px;
+	     vertical-align:top;
+	    }
+td.ann_list {font-family: Verdana, Arial, Helvetica, sans-serif; 
+	     font-size:12;
+	     background-color:#ffffcc;
+	     vertical-align:top;
+	     padding:5px;
+	     padding-left:15px;
+	    }
+td.ann_hspace {
+	     background-color:#ffffcc;
+	     width:40px;
+	    }
+td.teaser {padding: 2px; background-color:#ffdd00;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11;vertical-align:top;}
+td.teaser_logo_sep {padding: 2px; background-color:#ffdd00;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11;vertical-align:top;height:22px}
+td.teaser_logo {background-color:#ffdd00;height:90px;text-align:center;}
+td.teaser_header {padding: 0px; background-color:#ffaa00;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11;font-weight:bold;}
+td.teaser_leftspace {padding: 0px; background-color:#ffdd00;font-family:
+Verdana, Arial, Helvetica, sans-serif; font-size: 11;width: 2px;}
+td.teaser_leftspace_logo {padding: 0px; background-color:#ffdd00;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11;width: 12px;}
+td.ann_border {background-color:#ccccff; width: 40px;}
+td.ann_leftspace {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10;background-color:#ccccff; width: 70px;font-weight:bold;}
+td.ann_textspace {background-color:#ffffcc; width: 40px; padding: 0px;}
+td.ann_rightspace {background-color:#ffcc99; width: 20px; padding: 0px;}
+td.selected {background-color:#ccffcc; padding: 2px; text-align:center;}
+td.deselected {background-color:#eeeeee; padding: 2px; text-align: center;}
+td.ll_jobentry {background-color:#ffcc99; text-align:center;}
+td.menu_rightspace {background-color:#ffcc99; padding: 2px; text-align:center; width:296px;}
+td.menu_selected {background-color:#ccffcc; padding: 2px; text-align:center; width:110px;}
+td.menu_deselected {background-color:#eeeeee; padding: 2px; text-align: center; width:110px;}
+td.menu_hsep {background-color:#ccffcc; height: 2px;}
+td.menu_vsep {background-color:#ccffcc; width: 4px;}
+
+td.description{padding: 2px; 
+	       width:705px;
+	       font-family: Verdana, Arial, Helvetica, sans-serif; 
+	       font-size: 12;
+	      }
+
+td.school {background-color:#ffcc99; width: 130px;}
+td.fach {background-color:#ffcc99; width: 400px;}
+tr.selected {background-color:#ccffcc;}
+tr.hspace { background-color:#ffcc99; height:4px;}

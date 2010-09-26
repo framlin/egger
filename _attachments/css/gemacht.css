@@ -1,0 +1,45 @@
+
+h1{
+	padding-top: 0.2em;
+	margin-top: 0;
+	margin-right: 1em;
+	font-family: monospace;
+	font-size:1.5em;
+	text-align: right;
+}
+table.tasks{
+	margin:1em 1em 1em 1em;
+	border-style: dashed;
+	border-width: 0px 0px 1px 0px;
+	border-color:#fc9;
+	font-family: monospace;
+	background-color:#ffffd0;	
+	width:40em;
+}
+td.name{
+	width:70%;
+	}
+td.skills{
+	font-weight: bold;
+	width:30%
+}
+div.task{
+	display: block;
+	margin-bottom: .5em;
+}
+div.job{
+	margin-bottom: 1em;
+	}
+	
+div.time{
+	text-align: right;
+	padding-right:1em;
+	display:inline;
+	margin-left:1em;
+	}
+	
+span.description{
+	display: block;
+	margin-top:.5em;
+	font-size: 0.8em;
+	}

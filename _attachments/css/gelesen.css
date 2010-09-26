@@ -1,0 +1,30 @@
+
+h1{
+	padding-top: 0.2em;
+	margin-top: 0;
+	margin-right: 1em;
+	font-family: monospace;
+	font-size:1.5em;
+	text-align: right;
+}
+div.books{
+}
+div.cover img{
+	display: block;
+}
+div.cover{
+	float:left;
+}
+table.book{
+	margin:1em 1em 1em 1em;
+	width:90%;
+	border-style: dashed;
+	border-width: 0px 0px 1px 0px;
+	border-color:#fc9;
+	font-family: monospace;
+	background-color:#ffffd0;	
+}
+td.titel{
+	font-weight: bold;
+	width:66%;
+}
