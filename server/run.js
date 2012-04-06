@@ -7,8 +7,7 @@ app.use(flatiron.plugins.http);
 
 app.http.before = [
    function (req, res) {
-	   //this logs >> info: REQ - hello clientundefined
-	   app.log.info("REQ - hello client" + req.socket);
+	   app.log.info("REQ - " + new Date() + ' :: ' + req.connection.remoteAddress );
 	   res.emit('next');
    },
    ecstatic(__dirname + '/../site')
