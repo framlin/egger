@@ -14,8 +14,8 @@ body{
 	margin:0px;
 	padding:0px;
 	background-color:#ffefbf;
-	background-image: url("../images/servus.jpg");
-	background-repeat: no-repeat;
+	/* background-image: url("../images/servus.jpg");
+	background-repeat: no-repeat;*/
 	border-color:#fc9;
 }
 div.content{
@@ -191,4 +191,15 @@ div#lists ul{
 }
 .invisible{
 	display:none;
+}
+#google-link {
+	margin-bottom: 10px;
+}
+#xing-link {
+	margin-bottom: 10px;
+}
+#google-link img, #github-link img{
+	height: 16px;
+	width: 16px;
+	margin-right: 5px;
 }
