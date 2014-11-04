@@ -1,14 +1,14 @@
 var union = require('union'),
 	url = require('url'),
 	flatiron = require('flatiron'),
-	ecstatic = require('ecstatic'),
-	couchdb = require('nano')('http://localhost:5984'),
-	logDB = couchdb.use('egger'); 
+	ecstatic = require('ecstatic');
+//	couchdb = require('nano')('http://localhost:5984'),
+//	logDB = couchdb.use('egger'); 
 
 
 app = new flatiron.App();
 app.use(flatiron.plugins.http);
-
+/*
 function getIP(req) {
 	return {
 		ip: ( req.headers["X-Forwarded-For"]
@@ -28,10 +28,10 @@ function logRequest(req, res) {
 	});
 	res.emit('next');
 }
-
+*/
 
 app.http.before = [
-    logRequest,
+//    logRequest,
     ecstatic(__dirname + '/../site')
 ];
 
