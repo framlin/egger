@@ -1,0 +1,154 @@
+[
+    {
+        "job": {
+            "position": "Senior Developer",
+            "firma": "BeagleSoft GmbH, Berlin",
+            "time": "(1/2002 bis 3/2003)",
+            "description": "WebApplications Development",
+            "tasks": [
+                {
+                    "name": "Analyse/Design/Architektur",
+                    "skills": "OOA, OOD, UML"
+                },
+                {
+                    "name": "Prototypenbau",
+                    "skills": "CAP 4.0, J2EE, Struts, XML"
+                },
+                {
+                    "name": "Test: Design/Implementation",
+                    "skills": "JUnit, HttpUnit"
+                },
+                {
+                    "name": "Praktikantenbetreuung",
+                    "skills": ""
+                }
+            ]
+        }
+    },
+
+    {
+        "job": {
+            "position": "Qualitätsmanager",
+            "firma": "Equityscope AG, Berlin",
+            "time": "(12/2000 bis 12/2001)",
+            "description": "B2B/Web-Finanzportale",
+            "tasks": [
+                {
+                    "name": "Analyse/Design/Architektur",
+                    "skills": "OOA, OOD, UML"
+                },
+                {
+                    "name": "Qualitätsmanagement",
+                    "skills": "JUnit, HttpUnit"
+                },
+                {
+                    "name": "Deployment",
+                    "skills": "Ant, bash, Tomcat"
+                },
+                {
+                    "name": "Praktikantenbetreuung",
+                    "skills": ""
+                }
+            ]
+        }
+    },
+
+    {
+        "job": {
+            "position": "Senior Developer",
+            "firma": "Synemedia Productions, Berlin",
+            "time": "(7/2000 bis 11/2000)",
+            "description": "B2B-Web-Plattform",
+            "tasks": [
+                {
+                    "name": "Analyse/Design/Architektur",
+                    "skills": "OOA, OOD, UML"
+                },
+                {
+                    "name": "Prototypenbau",
+                    "skills": "J2EE, HTML"
+                }
+            ]
+        }
+    },
+
+    {
+        "job": {
+            "position": "Junior Developer bei der",
+            "firma": "DISOS GmbH, Berlin",
+            "time": "(1996 bis 1998)",
+            "description": "IT Services (IBM - Tochter)",
+            "tasks": [
+                {
+                    "name": "Informationssysteme, Datenbank-Clients",
+                    "skills": "DB2, SQL, Gupta, C++"
+                }
+            ]
+        }
+    },
+
+    {
+        "job": {
+            "position": "",
+            "firma": "Treuhandanstalt, Berlin",
+            "time": "(1993 bis 1996)",
+            "description": "Anstalt des öffentlichen Rechts, Direktorat Abwicklung/A1 (Stabstelle)",
+            "tasks": [
+                {
+                    "name": "Informationssysteme, Datenbank-Clients",
+                    "skills": "DB2, SQL"
+                }
+            ]
+        }
+    },
+
+    {
+        "job": {
+            "position": "",
+            "firma": "Auguste Viktoria Krankenhaus, Berlin",
+            "time": "(1988 bis 1992)",
+            "description": "",
+            "tasks": [
+                {
+                    "name": "Datenerfassung",
+                    "skills": ""
+                },
+                {
+                    "name": "Hausarbeiter",
+                    "skills": ""
+                }
+            ]
+        }
+    },
+
+    {
+        "job": {
+            "position":  "",
+            "firma": "Heinzelmännchen, FU-Berlin",
+            "time": "(1986 bis 1989)",
+            "description": "stud. Arbeitsvermittlung",
+            "tasks": [
+                {
+                    "name": "div. Studenten-Jobs",
+                    "skills": ""
+                }
+            ]
+        }
+    },
+
+    {
+        "job": {
+            "position":  "",
+            "firma": "Feix KG, Kaufbeuren",
+            "time": "( bis 1986)",
+            "description": "",
+            "tasks": [
+                {
+                    "name": "Spritzguss/Modeschmuck",
+                    "skills": ""
+                }
+            ]
+        }
+    }
+]
+

@@ -1,0 +1,155 @@
+[
+    {
+        "studium": "Informatik (Bachelor of Science)/FU-Berlin",
+        "time": "( 2003 bis 2006)",
+        "phases": [
+            {"phase": "Grundstudium",
+                "classes" : [
+                    {
+                        "semester" : "1",
+                        "course" : "Rechnerstrukturen"
+                    },
+                    {
+                        "semester" : "1",
+                        "course" : "Nebenläufige Programmierung"
+                    },
+                    {
+                        "semester" : "1",
+                        "course" : ".NET"
+                    },
+                    {
+                        "semester" : "1",
+                        "course" : "Systemadministration"
+                    },
+                    {
+                        "semester" : "1",
+                        "course" : "Rechnerorganisation"
+                    }
+                ]},
+
+            {"phase": "Hauptstudium", "classes" : [
+                {
+                    "semester" : "1",
+                    "course" : "Netzprogrammierung"
+                },
+                {
+                    "semester" : "1",
+                    "course" : "Datenbanksysteme"
+                }
+            ]}
+        ]
+    },
+    { "studium": "Diplominformatik/TU-Berlin",
+        "time": "( 1991 bis 1999)",
+        "phases": [
+            {"phase": "Grundstudium", "classes" : [
+                {
+                    "semester" : "4",
+                    "course" : "Grundlagen der Informatik"
+                },
+                {
+                    "semester" : "3",
+                    "course" : "Theoretische Informatik"
+                },
+                {
+                    "semester" : "3",
+                    "course" : "Mathematik für Informatiker"
+                },
+                {
+                    "semester" : "2",
+                    "course" : "Technische Informatik"
+                },
+                {
+                    "semester" : "1",
+                    "course" : "Betriebssystempraktikum"
+                },
+                {
+                    "semester" : "1",
+                    "course" : "Programmierpraktikum (LISP Interpreter)"
+                },
+                {
+                    "semester" : "1",
+                    "course" : "Unixpraktikum (Groupware)"
+                }
+            ]},
+
+            {"phase": "Hauptstudium", "classes" : [
+                {
+                    "semester" : "1",
+                    "course" : "Softwaretechnik und Systemgestaltung"
+                },
+                {
+                    "semester" : "1",
+                    "course" : "Grundlagen der Informationsmodellierung"
+                },
+                {
+                    "semester" : "1",
+                    "course" : "Methoden der KI"
+                },
+                {
+                    "semester" : "1",
+                    "course" : "Prozessdatenverarbeitung und Robotik"
+                },
+                {
+                    "semester" : "1",
+                    "course" : "Programmierpraktikum Robotik"
+                }
+            ]},
+
+            {"phase": "Wahlfach", "classes" : [
+                {
+                    "semester" : "2",
+                    "course" : "Kommunikationswissenschaften"
+                },
+                {
+                    "semester" : "1",
+                    "course" : "Digitale Signalverbeitung"
+                }
+            ]}
+        ]
+    },
+
+    { "studium": "Politikwissenschaften/FU-Berlin",
+        "time": "( 1986 bis 1989)",
+        "phases": [
+
+
+            {"phase": "Grundstudium", "classes" : [
+                {
+                    "semester" : "1",
+                    "course" : "Geschichte (Parteien im Nationalsozialismus)"
+                },
+                {
+                    "semester" : "1",
+                    "course" : "Soziologie (Geschlechtergerechtigkeit)"
+                },
+                {
+                    "semester" : "1",
+                    "course" : "Politiktheorie (Machtbegriff)"
+                }
+            ]}
+        ]
+    },
+
+    { "studium": "Peter Dörfler Gymnasium, Marktoberdorf/Algäu",
+        "time": "1986",
+        "phases": [
+            {"phase": "Abitur", "classes" : [
+                {
+                    "kind" : "Leistungskurse",
+                    "course" : "Chemie, Kunst"
+                },
+                {
+                    "kind" : "schriftlich",
+                    "course" : "Religion"
+                },
+                {
+                    "kind" : "mündlich",
+                    "course" : "Deutsch"
+                }
+            ]}
+        ]
+    }
+
+]
+

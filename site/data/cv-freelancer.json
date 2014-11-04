@@ -1,0 +1,97 @@
+[
+    {
+        "job": {
+            "position": "",
+            "firma": "Soprado GmbH & Co KG, München",
+            "time": "( seit 2006 )",
+            "description": "software identity",
+            "tasks": [
+                {
+                    "name": "Leasing Vertragsverwaltung +++ Javascript Enterprise WebApplication",
+                    "skills": "JavaScript, XUL, ExtJS, AJAX"
+                }
+            ]
+        }
+    },
+    {
+        "job": {
+            "position": "",
+            "firma": "Hoch3 GmbH, Berlin",
+            "time": "( 2005 )",
+            "description": "Healthcare-Kommunikation",
+            "tasks": [
+                {
+                    "name": "BWP 2005 (Upgrade) +++ barrierefreie PDF-Archiv-CD mit Volltextsuche",
+                    "skills": "J2EE, JSP, XML, XSLT, XSL-FO"
+                },
+                {
+                    "name": "Dardia International",
+                    "skills": "PHP, Perl, CMS (Teamsite)"
+                }
+            ]
+        }
+    },
+    {
+        "job": {
+            "position": "",
+            "firma": "WR-Multimedia, Berlin",
+            "time": "( seit 2001 )",
+            "description": "Web Development",
+            "tasks": [
+                {
+                    "name": "MS SpaceSellers",
+                    "skills": "C#, .NET, ActionScript, XML"
+                },
+                {
+                    "name": "Pille.com",
+                    "skills": "PHP, Perl, CMS (Teamsite)"
+                },
+                {
+                    "name": "Ventavis International",
+                    "skills": "PHP"
+                },
+                {
+                    "name": "AZA - Redirector",
+                    "skills": "PHP"
+                },
+                {
+                    "name": "BWP 2007 (Update)",
+                    "skills": "J2EE, JSP, XML, XSLT, XSL-FO"
+                },
+                {
+                    "name": "BWP 2006 (Update)",
+                    "skills": "J2EE, JSP, XML, XSLT, XSL-FO"
+                },
+                {
+                    "name": "BWP 2004 (Update)",
+                    "skills": "XML, XSLT, XSL-FO, ActionScript"
+                },
+                {
+                    "name": "BWP 2003 +++ PDF-Archiv-CD mit Volltextsuche",
+                    "skills": "XML, XSLT, XSL-FO, ActionScript"
+                },
+                {
+                    "name": "IT Consulting",
+                    "skills": ""
+                }
+            ]
+        }
+    },
+    {
+        "job": {
+            "position": "",
+            "firma": "Institut der Kasseler Stottertherapie, Kassel",
+            "time": "( 1998 bis 2000 )",
+            "description": "Multidimensionale Stottertherapie",
+            "tasks": [
+                {
+                    "name": "IT Consulting",
+                    "skills": ""
+                }
+            ]
+        }
+    }
+]
+
+
+

@@ -1,0 +1,40 @@
+[
+    {
+        "job": {
+            "position": "", "firma": "Bioservices GmbH, München",
+            "time": "( 1997 bis 1999)",
+            "description": "",
+            "tasks": [
+                {
+                    "name": "speak:gentle",
+                    "skills": "OOA, OOD, SQL, Delphi"
+                }
+            ]
+        }
+    },
+
+    {
+        "job": {
+            "position": "", "firma": "Leipziger Messe AG, Leipzig",
+            "time": "( 1993 bis 1995)",
+            "description": "",
+            "tasks": [
+                {
+                    "name": "MailBoxSystem",
+                    "skills": "C++"
+                },
+                {
+                    "name": "Organizer",
+                    "skills": "VisualBasic"
+                },
+                {
+                    "name": "InfoTerminal",
+                    "skills": "Borland Pascal 7.0"
+                }
+            ]
+        }
+    }
+
+]
+
+
