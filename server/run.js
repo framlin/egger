@@ -6,7 +6,7 @@ var union = require('union'),
     ecstatic = require('ecstatic'),
     webserver = new flatiron.App(),
     client = restify.createClient({
-        url: 'http://127.0.0.1:8082'
+        url: 'http://127.0.0.1:8089'
     }),
     router = new director.http.Router(),//.configure({ async: true }),
     pageTop = require('./pagetop'),
