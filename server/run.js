@@ -93,6 +93,7 @@ router.get('/', home);
 router.get('/index.html', home);
 router.get('/anstellungen.html', cv);
 router.get('/ausbildung.html', cv);
+router.get('/freelancer.html', cv);
 router.get('/mbaaba.html', cv);
 //------------------------------------------
 
