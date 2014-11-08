@@ -1,7 +1,7 @@
 [
     {
         "studium": "Informatik (Bachelor of Science)/FU-Berlin",
-        "time": "( 2003 bis 2006)",
+        "time": "2003 bis 2006",
         "phases": [
             {"phase": "Grundstudium",
                 "classes" : [
@@ -40,7 +40,7 @@
         ]
     },
     { "studium": "Diplominformatik/TU-Berlin",
-        "time": "( 1991 bis 1999)",
+        "time": "1991 bis 1999",
         "phases": [
             {"phase": "Grundstudium", "classes" : [
                 {
@@ -65,11 +65,11 @@
                 },
                 {
                     "semester" : "1",
-                    "course" : "Programmierpraktikum (LISP Interpreter)"
+                    "course" : "Programmierpraktikum (LISP Interpreter"
                 },
                 {
                     "semester" : "1",
-                    "course" : "Unixpraktikum (Groupware)"
+                    "course" : "Unixpraktikum (Groupware"
                 }
             ]},
 
@@ -110,22 +110,22 @@
     },
 
     { "studium": "Politikwissenschaften/FU-Berlin",
-        "time": "( 1986 bis 1989)",
+        "time": "1986 bis 1989",
         "phases": [
 
 
             {"phase": "Grundstudium", "classes" : [
                 {
                     "semester" : "1",
-                    "course" : "Geschichte (Parteien im Nationalsozialismus)"
+                    "course" : "Geschichte (Parteien im Nationalsozialismus"
                 },
                 {
                     "semester" : "1",
-                    "course" : "Soziologie (Geschlechtergerechtigkeit)"
+                    "course" : "Soziologie (Geschlechtergerechtigkeit"
                 },
                 {
                     "semester" : "1",
-                    "course" : "Politiktheorie (Machtbegriff)"
+                    "course" : "Politiktheorie (Machtbegriff"
                 }
             ]}
         ]
