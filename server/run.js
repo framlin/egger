@@ -1,11 +1,11 @@
 var union = require('union'),
-    restify = require('restify'),
+    restify = require('restify-clients'),
     url = require('url'),
     director = require('director'),
     flatiron = require('flatiron'),
     ecstatic = require('ecstatic'),
     webserver = new flatiron.App(),
-    client = restify.createClient({
+    client = restify.createHttpClient({
         url: 'http://127.0.0.1:8089'
     }),
     router = new director.http.Router(),//.configure({ async: true }),
