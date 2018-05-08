@@ -1,90 +1,30 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<link rel="stylesheet" type="text/css" href="./css/beuys.css">
-<link rel="stylesheet" type="text/css" href="./css/main.css">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="Author" content="Wolfgang Egger">
-<meta name="KEYWORDS"
-	content="Software,Softwareengineering,Softwaretechnik,OOD,OOA,Softwarearchitekt,Entwickler,UML,Informatik,Kompetenz,Systematik,Entwicklungszusammenarbeit,Politik,Beratung,Conulting">
-<meta name="ROBOTS" content="all">
-<title>wolfgang-egger.de/@home</title>
+	<meta charset="UTF-8">
+	<title>Wolfgang Egger</title>
+	<script type="text/javascript">
+		var host = window.location.protocol+"//"+window.location.hostname;
+		window.CI_HOST = host+":8088";
+		window.CO_HOST = host+":8093";
 
+		var link = document.createElement( "link" );
+		link.href = window.CI_HOST+"/styles/egger/site.css";
+		link.type = "text/css";
+		link.rel = "stylesheet";
+		link.media = "screen,print";
+
+		document.getElementsByTagName( "head" )[0].appendChild( link );
+	</script>
+	<script src="framework/frutils.js"></script>
 </head>
-<body>
-	<!-- background-color:#ffefbf;
-   -->
-	<div id="card">
-		<h1>Wolfgang Egger</h1>
-		<p id="geb">geb. am 8.9.1965 in Kaufbeuren / Allgäu</p>
-	</div>
-	<div class="announce">
-
-		<div class="menue">
-			<span class="disabled">Startseite</span> <a href="anstellungen.html">[Lebenslauf]</a>
-		</div>
-		<h2>Servus,</h2>
-		<p>
-
-			ich suche immer nach Gelegenheiten, an einem <b>nachhaltigen</b>
-			Projekt mitzuwirken.
-		</p>
-		<p>
-			Ein solches Projekt sollte über einen möglichst <b>langen</b>
-			Zeitraum <b>Nutzen</b> bringen, sich selbst tragen und dabei anderswo
-			und zukünftig keinen Schaden anrichten.
-		</p>
-
-		<div id="lists">
-			<div id="properties">
-				<h3>Meine Stärken:</h3>
-				<ul>
-					<li>Softwaretechnik</li>
-					<li>Analyse</li>
-					<li>Konzeption</li>
-					<li>Systematik</li>
-				</ul>
-				<h3>Meine Interessen:</h3>
-				<ul>
-					<li>1. FC Union Berlin</li>
-					<li>Chaos Computer Club</li>
-					<li>Elektronik</li>
-                    <li>DIY</li>
-				</ul>
-				<h3>
-					Meine Profession: <a href="http://www.framlin.com">www.framlin.com</a>
-				</h3>
-			</div>
-			<div id="links">
-				<h3>Profile auf</h3>
-				<ul>
-					<li id='google-link'><a
-						href="https://plus.google.com/b/100753823910335283417/100753823910335283417/about"
-						target="_blank"><img src="/images/google+.ico" />google+</a></li>
-					<li id='xing-link'><a href="http://www.xing.com/profile/Wolfgang_Egger7"
-						target="_blank" rel="me"><img
-							src="http://www.xing.com/img/buttons/10_en_btn.gif" width="85"
-							height="23" alt="Wolfgang Egger"></a></li>
-					<li id='github-link'><a href="http://github.com/framlin" target="_blank"
-						title="Github"><img src="/images/github.jpg" />Github</a></li>
-				</ul>
-			</div>
-		</div>
-	</div>
-	<div class="footer">
-		<dl>
-			<dt>Anschrift:</dt>
-			<dd>Bahnhofstraße. 17, 12555 Berlin</dd>
-
-			<!-- dt>Telefon:</dt>
-			<dd>++49 30 69409537</dd-->
-			<dt>Mobile:</dt>
-			<dd>++49 179 6746551</dd>
-			<dt>Mail:</dt>
-			<dd>
-				<a href="mailto:w.egger@framlin.com">w.egger@framlin.com</a>
-			</dd>
-		</dl>
-	</div>
+<body onload="frutils.page_onload(window)">
+<div class="page vbox fill-horizontal">
+	<div  id="header"      class="overlay load-sync" href="ci::/partials/header.html"></div>
+	<div  id="navigation"  class="overlay load-sync" href="ci::/partials/topnav.html"></div>
+	<div  id="main"        class="overlay load-sync" href="co::/article/egger/home.html"></div>
+	<div  id="bottomnav"   class="overlay load-sync" href="ci::/partials/bottomnav.html"></div>
+	<div  id="footer"      class="overlay load-sync" href="ci::/partials/footer.html"></div>
+</div>
 </body>
 </html>
