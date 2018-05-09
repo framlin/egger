@@ -1,3 +1,15 @@
+var host = window.location.protocol+"//"+window.location.hostname;
+window.CI_HOST = host+":8088";
+window.CO_HOST = host+":8093";
+
+var link = document.createElement( "link" );
+link.href = window.CI_HOST+"/styles/"+window.SITE_NAME+"/site.css";
+link.type = "text/css";
+link.rel = "stylesheet";
+link.media = "screen,print";
+
+document.getElementsByTagName( "head" )[0].appendChild( link );
+
 /**
  * User: w.egger@framlin.com
  * Date: 13.04.18
@@ -187,8 +199,8 @@ FRUTILS.prototype.run_cb = function run_cb(cb) {
 
 FRUTILS.prototype.is_cb = function(cb) {
     return (typeof cb == 'function' ||            // is it a function
-        this.is_array(cb)                         // is it Array?
-        && typeof cb[1] == 'function');           // has it a function?
+    this.is_array(cb)                         // is it Array?
+    && typeof cb[1] == 'function');           // has it a function?
 };
 
 FRUTILS.prototype.is_array = function(thing) {
@@ -300,7 +312,7 @@ FRUTILS.prototype.introspect_deep = function(x, deep, deep_tab) {
                         buf += "[MASKED]";
                     } else {
                         buf += "\n" + this.introspect_deep(x[i],
-                            deep != -1 ? deep - 1 : -1, deep_tab + "> ")
+                                deep != -1 ? deep - 1 : -1, deep_tab + "> ")
                             + "\n" + deep_tab;
                         next_prefix = "";
                     }
